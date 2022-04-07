@@ -700,6 +700,31 @@ p {
   margin: 28px 54px;
 }
 
+.image-10 {
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.section-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+  background-image: url('../images/DSCF0360-Edit.jpg');
+  background-position: 0px 0px;
+  background-size: auto;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     max-width: 100%;
