@@ -725,6 +725,37 @@ p {
   object-fit: fill;
 }
 
+.image-11 {
+  position: static;
+  display: block;
+  float: none;
+  clear: none;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.div-block-13 {
+  width: 100vw;
+  opacity: 0.89;
+  -webkit-transition: opacity 225ms ease;
+  transition: opacity 225ms ease;
+}
+
+.image-12 {
+  width: 100%;
+  margin-right: 1px;
+  padding-right: 0px;
+}
+
+.div-block-14 {
+  position: relative;
+  margin-right: 0px;
+  padding-right: 0px;
+  float: left;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     max-width: 100%;
